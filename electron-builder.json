@@ -1,0 +1,11 @@
+{
+    "appId": "kn.neo.augm2017-electron-quick-start",
+    "win": {
+        "target": "portable"
+    },
+    "mac": {
+        "target": "dmg"
+    },
+    "npmRebuild": true,
+    "compression": "maximum"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "augm2017-electron-quick-start",
+  "version": "1.0.0",
+  "description": "This is a Demo repo for AUGM 2017 Electorn talk",
+  "scripts": {
+    "start": "electron ./app",
+    "dist": "electron-builder --x64 --config"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neokn/augm2017-electron-quick-start.git"
+  },
+  "author": "Neo Kusanagi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neokn/augm2017-electron-quick-start/issues"
+  },
+  "homepage": "https://github.com/neokn/augm2017-electron-quick-start#readme",
+  "devDependencies": {
+    "electron": "^1.4.16",
+    "electron-builder": "^19.45.5"
+  }
+}
